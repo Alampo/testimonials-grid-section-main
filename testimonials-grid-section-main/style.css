@@ -60,8 +60,6 @@ p.card-description {
 }
 
 #first-card {
-  background: url(images/bg-pattern-quotation.svg)
-    linear-gradient(#733fc8, #733fc8);
   background-color: #733fc8;
   background-position: top 0 right 15%;
   background-size: 25% 100%;
